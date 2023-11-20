@@ -6,23 +6,20 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, I'm Dorro. </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://postimg.cc/sQ6SFGbj'
+            alt='Dorrin Ashrafi'
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            'Hello,I'm Dorro, I'm international student at CU BOULDER,I'm Persian.
+                i'm majoring in computer scinece, i'm planning to do a minor in data science. 
+                I like playing tennis and voleyball, also these days I'm trying to learn figure skating.
+                I dont have a favorite color, but mostly i like pink, black and purple.
+                 BYE"
           </p>
 
           <a className='button' href='/'>
